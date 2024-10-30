@@ -1,8 +1,8 @@
-# CMSE202F24-Project
+# War Machine
 
-CMSE repository for CMSE 202 F24 Project - Social 1
+This repository was created for a semester project in Michigan State University's CMSE 202, Computational Modeling Tools and Techniques during the Fall of 2024 taught by Dr. Nathan Haut at the Department of Computational Mathematics, Science, and Engineering.
 
-This project aims to predict which countries will go to war in a computational modeling project.
+This project aims to predict which countries will go to war using computational models and agent-based models. This project comes under the social science discipline.
 
 ## Group members:
 
