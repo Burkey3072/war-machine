@@ -11,3 +11,4 @@ This project aims to predict which countries will go to war using computational 
 3. Joseph Burke
 4. Saif Sheikh
 5. Adhvik Kolar
+https://www.when2meet.com/?27320574-Kj9AH
