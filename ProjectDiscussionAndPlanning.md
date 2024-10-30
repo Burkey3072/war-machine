@@ -11,3 +11,6 @@ We want to avoid:
 	Working last minute
 	unessacarily forced meetings
 	
+goals:
+	figure some algorithm to evaluate the risk of war, given a graph of alliances and enemies.
+	stretch: using alliance graphs to analyze local economies
