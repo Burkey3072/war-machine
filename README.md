@@ -7,8 +7,10 @@ This project aims to predict which countries will go to war using computational 
 ## Group members:
 
 1. Kyle Cowden
-2. Lowell Monis
+2. Lowell Monis (517) 455-3688
 3. Joseph Burke
 4. Saif Sheikh
 5. Adhvik Kolar
-https://www.when2meet.com/?27320574-Kj9AH
+
+
+**Team Meeting:** Tuesday 3 pm virtually
