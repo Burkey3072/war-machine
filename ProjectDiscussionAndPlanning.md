@@ -14,3 +14,12 @@ We want to avoid:
 goals:
 	figure some algorithm to evaluate the risk of war, given a graph of alliances and enemies.
 	stretch: using alliance graphs to analyze local economies
+Roles:
+	Kyle Cowden -  mathematics, inital predictive algorithm, and evolution algorithm
+                            Burke1 - ML, data collection
+                            lowell - ML for predicting 
+                            saif - ML
+each member will be responsible for presenting their work
+timeline:
+background and data: end of week
+
