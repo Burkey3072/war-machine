@@ -32,7 +32,3 @@ These will keep changing as we progress.
 4. Saif Sheikh - Miscellaneous Machine Learning Techniques
 
 Each member will be responsible for presenting their work
-
-### Evolving Timeline
-
-Background and Data - November 8
