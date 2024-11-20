@@ -31,7 +31,9 @@ We employed a multi-faceted approach combining graph theory, and machine learnin
 
 We will be using logistic regression. The logistic model is based on the logistic function, also known as the sigmoid function.
 
-$$f:\mathbf{R}\rightarrow[-1,1], f(x) = \frac{e^x}{1+e^x}$$
+$$f:\mathbb{R}\rightarrow[-1,1], f(x) = \frac{e^x}{1+e^x}$$
+
+This makes it great to use as a binary classifier by using the probabilistic concept of likelihood.
 
 
 ## References
