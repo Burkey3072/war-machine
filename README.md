@@ -16,11 +16,14 @@ The primary code used to generate plots of how accurate our war predictions are 
 
 ## Abstract
 
-Our project focuses on modeling and predicting international alliances and the likelihood of conflict using the Correlates of War (CoW) datasets. This work integrates computational modeling, data analysis, and machine learning to answer the following central question: 
+Our project focuses on modeling and predicting international alliances and the likelihood of conflict using the Correlates of War (CoW) datasets. This work integrates computational modeling, data analysis, and machine learning to answer the following central questions: 
 
 >How do alliance configurations shift over time?
+
 >Thus, when will war break out?
+
 >What factors in alliances historically correlate with wars?
+
 >Can graph theory and machine learning models predict alliance instability?
 
 These questions are motivated by the need to better understand the dynamic nature of global alliances and the conditions under which conflict arises, contributing to the broader field of political science, international relations, and social relations.
