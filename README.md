@@ -38,7 +38,9 @@ This makes it great to use as a binary classifier by using the probabilistic con
 
 ## References
 
-[1] https://medium.com/analytics-vidhya/the-math-behind-logistic-regression-c2f04ca27bca
+[1] Rai, Khushwant (2020). "The math behind Logistic Regression" Accessed on Novermber 16, 2024 from https://medium.com/analytics-vidhya/the-math-behind-logistic-regression-c2f04ca27bca
+[2] 
+
 
 
 ## Running:
