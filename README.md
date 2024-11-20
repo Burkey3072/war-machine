@@ -15,12 +15,11 @@ This project comes under the social sciences.
 
 ## Abstract
 
-Our project focuses on modeling and predicting international alliances and the likelihood of conflict using the Correlates of War (CoW) datasets. This work integrates computational modeling, data analysis, and machine learning to answer two central questions: 
+Our project focuses on modeling and predicting international alliances and the likelihood of conflict using the Correlates of War (CoW) datasets. This work integrates computational modeling, data analysis, and machine learning to answer the following central question: 
 
-1. How do alliance configurations shift over time?
-2. What is the probability of war given specific parameters, such as trade volume, religious alignment, and diplomatic relationships?
+>>How do alliance configurations shift over time?
 
-These questions are motivated by the need to better understand the dynamic nature of global alliances and the conditions under which conflict arises, contributing to the broader field of political science, international relations, and social relations.
+This question is motivated by the need to better understand the dynamic nature of global alliances and the conditions under which conflict arises, contributing to the broader field of political science, international relations, and social relations.
 
 ### Background and Motivation
 
