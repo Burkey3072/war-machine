@@ -39,3 +39,8 @@ This makes it great to use as a binary classifier by using the probabilistic con
 ## References
 
 [1] https://medium.com/analytics-vidhya/the-math-behind-logistic-regression-c2f04ca27bca
+
+
+## Running:
+
+The primary code used to generate plot's of how "accurate" our war prediction's are is in the 'graph theory-isolated portion.ipynb' file, code for making movies of how the alliances change in our raw data is in 'archive/Correlates_of_war.ipynb', 'FinalReport.ipynb' contains an exploratory attempt at using svm's alone to predict alliance changes, but is not used in the main simulation that we present.
