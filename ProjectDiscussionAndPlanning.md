@@ -30,5 +30,5 @@ These will keep changing as we progress.
 2. Lowell Monis - Predictive Machine Learning Methods, Mathematical Assistance, Data Collection
 3. Joseph Burke - Data Collection and Processing, Miscellaneous Machine Learning Techniques
 4. Saif Sheikh - Miscellaneous Machine Learning Techniques
-
+5. Adhvik Kolar- Presentation, Prediction and Modelling.
 Each member will be responsible for presenting their work
