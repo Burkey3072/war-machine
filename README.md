@@ -27,6 +27,13 @@ The CoW datasets provide a comprehensive archive of historical and contemporary 
 
 ### Methodology
 
-We employed a multi-faceted approach combining graph theory, and machine learning. The first phase involved constructing network graphs where nodes represented countries and edges depicted alliances. We implemented graph-theoretical stability rules to identify two configurations: complete graphs, which signify stable alliances, and disjoint subgraphs, which often predict conflict. For the second phase, we utilized Python-based libraries such as `NetworkX` for graph analysis, `pandas` for data processing, and `scikit-learn` for machine learning. Key machine learning models included logistic regression and support vector machines (SVMs), chosen for their interpretability and effectiveness in binary classification tasks like predicting war likelihood and alliance shifts.
+We employed a multi-faceted approach combining graph theory, and machine learning. The first phase involved constructing network graphs where nodes represented countries and edges depicted alliances. We implemented graph-theoretical stability rules to identify two configurations: complete graphs, which signify stable alliances, and disjoint subgraphs, which often predict conflict. For the second phase, we utilized Python-based libraries such as `NetworkX` for graph analysis, `pandas` for data processing, and `scikit-learn` for machine learning. We chose logistic regression to simplify the model. It was also chosen for its interpretability and effectiveness in binary classification tasks like predicting war likelihood and alliance shifts.
+
+We will be using logistic regression. The logistic model is based on the logistic function, also known as the sigmoid function.
+
+$f:\real\rightarrow[-1,1], f(x) = \frac{e^x}{1+e^x}$
 
 
+## References
+
+[1] https://medium.com/analytics-vidhya/the-math-behind-logistic-regression-c2f04ca27bca
