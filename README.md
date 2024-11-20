@@ -6,12 +6,15 @@ This project comes under the social sciences.
 
 ## Group members:
 
-1. Kyle Cowden
-2. Lowell Monis
-3. Joseph Burke
-4. Saif Sheikh
-5. Adhvik Kolar
+1. Kyle Cowden (Graph Theory)
+2. Lowell Monis (Machine Learning)
+3. Joseph Burke (Data Processing and Graph Theory)
+4. Saif Sheikh (Machine Learning and Visualization)
+5. Adhvik Kolar (Machine Learning and Visualization)
 
+## Runtime:
+
+The primary code used to generate plot's of how "accurate" our war prediction's are is in the 'graph theory-isolated portion.ipynb' file, code for making movies of how the alliances change in our raw data is in 'archive/Correlates_of_war.ipynb', 'FinalReport.ipynb' contains an exploratory attempt at using svm's alone to predict alliance changes, but is not used in the main simulation that we present.
 
 ## Abstract
 
@@ -27,7 +30,7 @@ The CoW datasets provide a comprehensive archive of historical and contemporary 
 
 ### Methodology
 
-We employed a multi-faceted approach combining graph theory, and machine learning. The first phase involved constructing network graphs where nodes represented countries and edges depicted alliances. We implemented graph-theoretical stability rules to identify two configurations: complete graphs, which signify stable alliances, and disjoint subgraphs, which often predict conflict. For the second phase, we utilized Python-based libraries such as `NetworkX` for graph analysis, `pandas` for data processing, and `scikit-learn` for machine learning. We chose logistic regression to simplify the model. It was also chosen for its interpretability and effectiveness in binary classification tasks like predicting war likelihood and alliance shifts.
+We employed a multi-faceted approach combining graph theory, and machine learning. The first phase involved constructing network graphs where nodes represented countries and edges depicted alliances. We implemented graph-theoretical stability rules to identify two configurations: complete graphs, which signify stable alliances, and disjoint subgraphs, which often predict conflict. For the second phase, we utilized Python-based libraries such as `NetworkX` for graph analysis, `pandas` for data processing, and `sklearn` for machine learning. We chose logistic regression to simplify the model. It was also chosen for its interpretability and effectiveness in binary classification tasks like predicting war likelihood and alliance shifts.
 
 We will be using logistic regression. The logistic model is based on the logistic function, also known as the sigmoid function.
 
@@ -35,14 +38,17 @@ $$f:\mathbb{R}\rightarrow[-1,1], f(x) = \frac{e^x}{1+e^x}$$
 
 This makes it great to use as a binary classifier by using the probabilistic concept of likelihood.
 
+### Results
+
+### Discussion
+
+### Conclusion
+
+
 
 ## References
 
-[1] Rai, Khushwant (2020). "The math behind Logistic Regression" Accessed on Novermber 16, 2024 from https://medium.com/analytics-vidhya/the-math-behind-logistic-regression-c2f04ca27bca
-[2] 
-
-
-
-## Running:
-
-The primary code used to generate plot's of how "accurate" our war prediction's are is in the 'graph theory-isolated portion.ipynb' file, code for making movies of how the alliances change in our raw data is in 'archive/Correlates_of_war.ipynb', 'FinalReport.ipynb' contains an exploratory attempt at using svm's alone to predict alliance changes, but is not used in the main simulation that we present.
+[1] Rai, Khushwant (2020). The math behind Logistic Regression. Accessed on Novermber 16, 2024 from https://medium.com/analytics-vidhya/the-math-behind-logistic-regression-c2f04ca27bca
+[2] COW War Data, 1816 – 2007 (v4.0): Sarkees, Meredith Reid and Frank Wayman (2010). Resort to War: 1816 – 2007. Washington DC: CQ Press. Accessed on November 5, 2024 from https://correlatesofwar.org/data-sets/
+[3] Gibler, Douglas M. (2009). International military alliances, 1648-2008. CQ Press.
+[4] PBS Digital Studios. (2017). Network Mathematics and Rival Factions. (June 2017). Accessed on November 10, 2024 from https://www.pbs.org/video/network-mathematics-and-rival-factions-infinite-series-ijmbu2/ 
