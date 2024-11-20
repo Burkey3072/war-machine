@@ -119,7 +119,11 @@ Success in this project depends on perspective:
 ## References
 
 [1] Rai, Khushwant (2020). The math behind Logistic Regression. Accessed on Novermber 16, 2024 from https://medium.com/analytics-vidhya/the-math-behind-logistic-regression-c2f04ca27bca
+
 [2] PBS Digital Studios. (2017). Network Mathematics and Rival Factions. (June 2017). Accessed on November 10, 2024 from https://www.pbs.org/video/network-mathematics-and-rival-factions-infinite-series-ijmbu2/
+
 [3] https://scikit-learn.org/
+
 [4] COW War Data, 1816 – 2007 (v4.0): Sarkees, Meredith Reid and Frank Wayman (2010). Resort to War: 1816 – 2007. Washington DC: CQ Press. Accessed on November 5, 2024 from https://correlatesofwar.org/data-sets/
+
 [5] Gibler, Douglas M. (2009). International military alliances, 1648-2008. CQ Press.
