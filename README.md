@@ -10,7 +10,7 @@ This repository was created for a semester project in Michigan State University'
 4. Saif Sheikh (Machine Learning and Visualization)
 5. Adhvik Kolar (Machine Learning and Visualization)
 
-## Runtime:
+## Running:
 
 The primary code used to generate plots of how accurate our war predictions are is in the `code.ipynb` file. This file contains our primary submission for this project. You can also find code for making graphics and simulations of how alliances change in our raw data in `archive/Correlates_of_war.ipynb`. `archive/svm.ipynb` contains an exploratory attempt at using SVMs alone to predict alliance changes, but is not used in the main simulation that we are presenting. If you would like to view any visuals, you can view them in the folder titled `visuals`.
 
